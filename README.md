@@ -2,8 +2,7 @@
 > Tools ini dibuat untuk tujuan edukasi dan pentest yang sah. 
 > Author tidak bertanggung jawab atas penyalahgunaan tools ini.
 > Dilarang keras menggunakan tools ini untuk aktivitas ilegal tanpa izin.
-> Gunakan dengan bijak. Use at your own risk.
-# 🇮🇩 HanzTools V2 - Warung Digital HanzCyberr
+> Gunakan dengan bijak. Use at your own risk
 
 Tools Termux buat pemula sampe suhu. Dibuat jam 4 subuh sambil ngopi & ngelawan ngantuk ☕
 
